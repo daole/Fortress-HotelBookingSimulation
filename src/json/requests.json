@@ -1,0 +1,44 @@
+[
+    {
+      "id": "4067b75d-c74e-4313-9fa9-ece076a03eed",
+      "min_beds": 1,
+      "is_smoker": true,
+      "checkin_date": "2021-01-01",
+      "checkout_date": "2021-01-05"
+    },
+    {
+      "id": "7f5be4d5-fb92-4032-a576-69c761a61ffd",
+      "min_beds": 2,
+      "is_smoker": false,
+      "checkin_date": "2021-01-03",
+      "checkout_date": "2021-01-04"
+    },
+    {
+      "id": "26fc36d1-8a65-4911-a0ae-236886728540",
+      "min_beds": 1,
+      "is_smoker": true,
+      "checkin_date": "2021-01-03",
+      "checkout_date": "2021-01-04"
+    },
+    {
+      "id": "1100de43-56f6-404f-b8cd-98a71bb3657d",
+      "min_beds": 2,
+      "is_smoker": true,
+      "checkin_date": "2021-01-01",
+      "checkout_date": "2021-01-05"
+    },
+    {
+      "id": "11857249-c093-4518-ba74-7b402ea20e63",
+      "min_beds": 2,
+      "is_smoker": false,
+      "checkin_date": "2021-01-31",
+      "checkout_date": "2021-02-03"
+    },
+    {
+      "id": "2e76f658-bb49-4b26-bc15-9f344c9c2a68",
+      "min_beds": 1,
+      "is_smoker": false,
+      "checkin_date": "2021-01-04",
+      "checkout_date": "2021-01-05"
+    }
+  ]
